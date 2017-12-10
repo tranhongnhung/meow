@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/twinklestar/Downloads/Quiz-Game-master/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/twinklestar/Downloads/Quiz-Game-master/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/twinklestar/Desktop/Quiz-Game-master/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/twinklestar/Desktop/Quiz-Game-master/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/twinklestar/DreamBox/Meow/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/twinklestar/DreamBox/Meow/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    }
+]

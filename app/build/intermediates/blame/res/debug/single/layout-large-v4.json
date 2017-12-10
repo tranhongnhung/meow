@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/twinklestar/Downloads/Quiz-Game-master/app/build/intermediates/res/merged/debug/layout-large-v4/game_won.xml",
+        "source": "/Users/twinklestar/Downloads/Quiz-Game-master/app/src/main/res/layout-large/game_won.xml"
+    },
+    {
+        "merged": "/Users/twinklestar/Desktop/Quiz-Game-master/app/build/intermediates/res/merged/debug/layout-large-v4/dialog_correct.xml",
+        "source": "/Users/twinklestar/Desktop/Quiz-Game-master/app/src/main/res/layout-large/dialog_correct.xml"
+    },
+    {
+        "merged": "/Users/twinklestar/DreamBox/Meow/app/build/intermediates/res/merged/debug/layout-large-v4/activity_home_screen.xml",
+        "source": "/Users/twinklestar/DreamBox/Meow/app/src/main/res/layout-large/activity_home_screen.xml"
+    },
+    {
+        "merged": "/Users/twinklestar/Downloads/Quiz-Game-master/app/build/intermediates/res/merged/debug/layout-large-v4/play_again.xml",
+        "source": "/Users/twinklestar/Downloads/Quiz-Game-master/app/src/main/res/layout-large/play_again.xml"
+    },
+    {
+        "merged": "/Users/twinklestar/Desktop/Quiz-Game-master/app/build/intermediates/res/merged/debug/layout-large-v4/play_again.xml",
+        "source": "/Users/twinklestar/Desktop/Quiz-Game-master/app/src/main/res/layout-large/play_again.xml"
+    },
+    {
+        "merged": "/Users/twinklestar/DreamBox/Meow/app/build/intermediates/res/merged/debug/layout-large-v4/game_won.xml",
+        "source": "/Users/twinklestar/DreamBox/Meow/app/src/main/res/layout-large/game_won.xml"
+    },
+    {
+        "merged": "/Users/twinklestar/Desktop/Quiz-Game-master/app/build/intermediates/res/merged/debug/layout-large-v4/activity_game_main.xml",
+        "source": "/Users/twinklestar/Desktop/Quiz-Game-master/app/src/main/res/layout-large/activity_game_main.xml"
+    },
+    {
+        "merged": "/Users/twinklestar/Downloads/Quiz-Game-master/app/build/intermediates/res/merged/debug/layout-large-v4/activity_game_main.xml",
+        "source": "/Users/twinklestar/Downloads/Quiz-Game-master/app/src/main/res/layout-large/activity_game_main.xml"
+    },
+    {
+        "merged": "/Users/twinklestar/Desktop/Quiz-Game-master/app/build/intermediates/res/merged/debug/layout-large-v4/activity_time__up.xml",
+        "source": "/Users/twinklestar/Desktop/Quiz-Game-master/app/src/main/res/layout-large/activity_time__up.xml"
+    },
+    {
+        "merged": "/Users/twinklestar/Downloads/Quiz-Game-master/app/build/intermediates/res/merged/debug/layout-large-v4/activity_time__up.xml",
+        "source": "/Users/twinklestar/Downloads/Quiz-Game-master/app/src/main/res/layout-large/activity_time__up.xml"
+    },
+    {
+        "merged": "/Users/twinklestar/Desktop/Quiz-Game-master/app/build/intermediates/res/merged/debug/layout-large-v4/game_won.xml",
+        "source": "/Users/twinklestar/Desktop/Quiz-Game-master/app/src/main/res/layout-large/game_won.xml"
+    },
+    {
+        "merged": "/Users/twinklestar/DreamBox/Meow/app/build/intermediates/res/merged/debug/layout-large-v4/dialog_correct.xml",
+        "source": "/Users/twinklestar/DreamBox/Meow/app/src/main/res/layout-large/dialog_correct.xml"
+    },
+    {
+        "merged": "/Users/twinklestar/Downloads/Quiz-Game-master/app/build/intermediates/res/merged/debug/layout-large-v4/activity_home_screen.xml",
+        "source": "/Users/twinklestar/Downloads/Quiz-Game-master/app/src/main/res/layout-large/activity_home_screen.xml"
+    },
+    {
+        "merged": "/Users/twinklestar/Desktop/Quiz-Game-master/app/build/intermediates/res/merged/debug/layout-large-v4/activity_home_screen.xml",
+        "source": "/Users/twinklestar/Desktop/Quiz-Game-master/app/src/main/res/layout-large/activity_home_screen.xml"
+    },
+    {
+        "merged": "/Users/twinklestar/DreamBox/Meow/app/build/intermediates/res/merged/debug/layout-large-v4/play_again.xml",
+        "source": "/Users/twinklestar/DreamBox/Meow/app/src/main/res/layout-large/play_again.xml"
+    },
+    {
+        "merged": "/Users/twinklestar/DreamBox/Meow/app/build/intermediates/res/merged/debug/layout-large-v4/activity_game_main.xml",
+        "source": "/Users/twinklestar/DreamBox/Meow/app/src/main/res/layout-large/activity_game_main.xml"
+    },
+    {
+        "merged": "/Users/twinklestar/Downloads/Quiz-Game-master/app/build/intermediates/res/merged/debug/layout-large-v4/dialog_correct.xml",
+        "source": "/Users/twinklestar/Downloads/Quiz-Game-master/app/src/main/res/layout-large/dialog_correct.xml"
+    },
+    {
+        "merged": "/Users/twinklestar/DreamBox/Meow/app/build/intermediates/res/merged/debug/layout-large-v4/activity_time__up.xml",
+        "source": "/Users/twinklestar/DreamBox/Meow/app/src/main/res/layout-large/activity_time__up.xml"
+    }
+]
