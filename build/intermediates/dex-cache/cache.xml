@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/twinklestar/.android/build-cache/e3ec4690fccd2303d3a6b3033a1ebe50b64a7539/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/twinklestar/Desktop/Quiz-Game-master/app/build/intermediates/pre-dexed/debug/classes_fc3d76f358fc913b34450f0abc4480fe2529f5a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/twinklestar/.android/build-cache/8adaaf34b2db2a7f98b1243562c14f3c033365db/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2c12397a785c3b1868fbebeffc9553457b27803f">
+        <dex dex="/Users/twinklestar/Desktop/Quiz-Game-master/app/build/intermediates/pre-dexed/debug/classes_f8c92740e3b650d64a6c165c9dbbc989dea6e2a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/twinklestar/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/twinklestar/Desktop/Quiz-Game-master/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_6f1e3f893de72988401e87b525be68d30bcdf8d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/twinklestar/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="919f0dfe192fb4e063e7dacadee7f8bb9a2672a9">
+        <dex dex="/Users/twinklestar/Desktop/Quiz-Game-master/app/build/intermediates/pre-dexed/debug/annotations-13.0_dfa1250fb5da31505814c5b407722f7e567b4ff4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/twinklestar/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/twinklestar/DreamBox/Meow/app/build/intermediates/pre-dexed/debug/gson-2.7_fbfcac6e730746d625ab3a366930af18a390f8b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/twinklestar/.android/build-cache/6445fbaf7dc0ea4eb3dda632975d294f3e546030/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/twinklestar/Desktop/Quiz-Game-master/app/build/intermediates/pre-dexed/debug/classes_1476ac20e7d2e49035928841ebb8d626d78f9390.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/twinklestar/.android/build-cache/1766a3f0faca68411282ac008f73ef908bfa9c19/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/twinklestar/Desktop/Quiz-Game-master/app/build/intermediates/pre-dexed/debug/classes_7a8e269a1510abfc698a35e551c622a083009b93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/twinklestar/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/twinklestar/Desktop/Quiz-Game-master/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_30b38f0fa8455a93d260dfe156d4880a13e1f56b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/twinklestar/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.1.51/e34fe80c9714240525f665113dd3749415515655/kotlin-stdlib-1.1.51.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e34fe80c9714240525f665113dd3749415515655">
+        <dex dex="/Users/twinklestar/Desktop/Quiz-Game-master/app/build/intermediates/pre-dexed/debug/kotlin-stdlib-1.1.51_564ec0fe51d0a5be8f000075f0170852d80afd41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/twinklestar/.android/build-cache/8cfa1ee40bacb5219358cfab2d7bea0607f811b3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/twinklestar/Desktop/Quiz-Game-master/app/build/intermediates/pre-dexed/debug/classes_8cc3333dffe2fb754f1a7145a580adbbe433c8a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/twinklestar/.android/build-cache/9d37ecfe0072b7f7efc200cdf6ace774bb81e1ec/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/twinklestar/Desktop/Quiz-Game-master/app/build/intermediates/pre-dexed/debug/classes_9a6deb7f86cbe4b40d30a244ff1d0681944406eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/twinklestar/.android/build-cache/134b30c808399a6f79c387f8b8ac67a24a67d38e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/twinklestar/Desktop/Quiz-Game-master/app/build/intermediates/pre-dexed/debug/classes_a1c79049b8829d10c65572f200ccc12da4820cfc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/twinklestar/.android/build-cache/055bb7cb228443fcc4bfefe232e1586a58cb4191/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/twinklestar/Desktop/Quiz-Game-master/app/build/intermediates/pre-dexed/debug/classes_35552d3cba5afe46320f58b067b63a45c0506857.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/twinklestar/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/5a11f020cce2d11eb71ba916700600e18c4547e7/okhttp-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="/Users/twinklestar/DreamBox/Meow/app/build/intermediates/pre-dexed/debug/okhttp-3.8.0_86e6b88790f80f6224a0645b9b975781330443d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/twinklestar/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/twinklestar/DreamBox/Meow/app/build/intermediates/pre-dexed/debug/okio-1.13.0_b9f926550502402ac1039d8fefc22fd0267ff9f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/twinklestar/.android/build-cache/896e7a65ba00feab18b519ca4c5655d2d179c6a8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/twinklestar/Desktop/Quiz-Game-master/app/build/intermediates/pre-dexed/debug/classes_b309e6bd9382e9734d9853817f18bf19f701d495.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/twinklestar/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.3.0/9e09011e9767bb76b5e27c9b8223476b93b14631/converter-gson-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e09011e9767bb76b5e27c9b8223476b93b14631">
+        <dex dex="/Users/twinklestar/DreamBox/Meow/app/build/intermediates/pre-dexed/debug/converter-gson-2.3.0_93eb8a18c3a7305a07fad825be855535022e3250.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/twinklestar/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jre7/1.1.51/8b5933578dc55f32cfc1a25f1db6371e4161fb8f/kotlin-stdlib-jre7-1.1.51.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8b5933578dc55f32cfc1a25f1db6371e4161fb8f">
+        <dex dex="/Users/twinklestar/Desktop/Quiz-Game-master/app/build/intermediates/pre-dexed/debug/kotlin-stdlib-jre7-1.1.51_0659c727ecfb150e1242cbac340d2e57dc7fa7e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/twinklestar/.android/build-cache/aef4094e1e704922429a22fe8e6bf196b035c4a2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/twinklestar/Desktop/Quiz-Game-master/app/build/intermediates/pre-dexed/debug/classes_3a52d36fe1d90a9d2f70ca5c04e94132599c859d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/twinklestar/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/bcacde6a8ccedcc56c127403d26b76072fe6214d/retrofit-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="/Users/twinklestar/DreamBox/Meow/app/build/intermediates/pre-dexed/debug/retrofit-2.3.0_d3e67238eb816709404024b5946765d7d356a5a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/twinklestar/.android/build-cache/0048e402ad55ae125126cacf9c5ac71fc79c9e76/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/twinklestar/Desktop/Quiz-Game-master/app/build/intermediates/pre-dexed/debug/classes_53b8ab7ab62581bbb08491b8b7583bf91f86d8b4.jar" />
+    </item>
+
+</items>
